@@ -264,7 +264,7 @@ rsfaucet.com##+js(noeval, DOMContentLoaded, showModal)
 helpfpcoin.site##+js(noeval, DOMContentLoaded, showModal)
 
 ! exe.io
-exe.io,exnion.com##+js(nowoif)
+exe.io,exnion.com,exeygo.com##+js(nowoif)
 
 ! gplinks.co
 gplinks.co##+js(no-xhr-if, googlesyndication)
