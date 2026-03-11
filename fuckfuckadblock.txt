@@ -1,6 +1,6 @@
-! Title: Fuck Fuckadblock
+! Title: Go Away Fuckadblock
 ! Description: Filters for blocking pop-ups and anti-adblock bypass
-! Author: Bogachenko Vyacheslav
+! Author: Bogachenko Vyacheslav, Sofía Maturana
 ! Expires: 3 days
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
 ! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
